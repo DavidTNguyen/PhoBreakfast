@@ -1,0 +1,22 @@
+POST http://localhost:5076/breakfasts
+Content-Type: application/json
+
+{
+    "name": "Pho Bo",
+    "description": "Steaming bowls, fragrant broth, noodles swirl, beef slices, fresh herbs - Vietnamese Pho: culinary poetry.",
+    "startDateTime": "2022-04-08T08:00:00",
+    "endDateTime": "2022-04-08T11:00:00",
+    "savory": [
+        "Beef",
+        "Chicken",
+        "Tuong",
+        "Rau"
+    ],
+    "Sweet": [
+        "Che"
+    ]
+}
+
+###
+
+GET http://localhost:5076/Breakfasts/6b832f73-60de-4939-9ac7-1b374e235e95

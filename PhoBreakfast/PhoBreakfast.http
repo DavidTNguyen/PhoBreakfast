@@ -1,0 +1,6 @@
+@PhoBreakfast_HostAddress = http://localhost:5076
+@id=55373792-d079-431b-a5c1-2c527647f3c5
+GET {{PhoBreakfast_HostAddress}}/breakfasts/{{id}}
+Accept: application/json
+
+###

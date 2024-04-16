@@ -1,0 +1,11 @@
+C:\dev\PhoBreakfast\PhoBreakfast.Contracts\bin\Debug\net8.0\PhoBreakfast.Contracts.deps.json
+C:\dev\PhoBreakfast\PhoBreakfast.Contracts\bin\Debug\net8.0\PhoBreakfast.Contracts.dll
+C:\dev\PhoBreakfast\PhoBreakfast.Contracts\bin\Debug\net8.0\PhoBreakfast.Contracts.pdb
+C:\dev\PhoBreakfast\PhoBreakfast.Contracts\obj\Debug\net8.0\PhoBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\PhoBreakfast\PhoBreakfast.Contracts\obj\Debug\net8.0\PhoBreakfast.Contracts.AssemblyInfoInputs.cache
+C:\dev\PhoBreakfast\PhoBreakfast.Contracts\obj\Debug\net8.0\PhoBreakfast.Contracts.AssemblyInfo.cs
+C:\dev\PhoBreakfast\PhoBreakfast.Contracts\obj\Debug\net8.0\PhoBreakfast.Contracts.csproj.CoreCompileInputs.cache
+C:\dev\PhoBreakfast\PhoBreakfast.Contracts\obj\Debug\net8.0\PhoBreakfast.Contracts.dll
+C:\dev\PhoBreakfast\PhoBreakfast.Contracts\obj\Debug\net8.0\refint\PhoBreakfast.Contracts.dll
+C:\dev\PhoBreakfast\PhoBreakfast.Contracts\obj\Debug\net8.0\PhoBreakfast.Contracts.pdb
+C:\dev\PhoBreakfast\PhoBreakfast.Contracts\obj\Debug\net8.0\ref\PhoBreakfast.Contracts.dll

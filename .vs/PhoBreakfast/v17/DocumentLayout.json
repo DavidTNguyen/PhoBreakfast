@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\PhoBreakfast\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7268C61-62D2-46AD-AEDC-14704E62CB51}|PhoBreakfast.Contracts\\PhoBreakfast.Contracts.csproj|c:\\dev\\phobreakfast\\phobreakfast.contracts\\upsertbreakfastrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7268C61-62D2-46AD-AEDC-14704E62CB51}|PhoBreakfast.Contracts\\PhoBreakfast.Contracts.csproj|solutionrelative:phobreakfast.contracts\\upsertbreakfastrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5A3E76-05BC-4668-A87D-9807AABAD1D8}|PhoBreakfast\\PhoBreakfast.csproj|c:\\dev\\phobreakfast\\phobreakfast\\getbreakfast.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CC5A3E76-05BC-4668-A87D-9807AABAD1D8}|PhoBreakfast\\PhoBreakfast.csproj|solutionrelative:phobreakfast\\getbreakfast.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5A3E76-05BC-4668-A87D-9807AABAD1D8}|PhoBreakfast\\PhoBreakfast.csproj|c:\\dev\\phobreakfast\\phobreakfast\\createbreakfast.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CC5A3E76-05BC-4668-A87D-9807AABAD1D8}|PhoBreakfast\\PhoBreakfast.csproj|solutionrelative:phobreakfast\\createbreakfast.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5A3E76-05BC-4668-A87D-9807AABAD1D8}|PhoBreakfast\\PhoBreakfast.csproj|c:\\dev\\phobreakfast\\phobreakfast\\phobreakfast.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CC5A3E76-05BC-4668-A87D-9807AABAD1D8}|PhoBreakfast\\PhoBreakfast.csproj|solutionrelative:phobreakfast\\phobreakfast.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5A3E76-05BC-4668-A87D-9807AABAD1D8}|PhoBreakfast\\PhoBreakfast.csproj|c:\\dev\\phobreakfast\\phobreakfast\\upsertbreakfast.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CC5A3E76-05BC-4668-A87D-9807AABAD1D8}|PhoBreakfast\\PhoBreakfast.csproj|solutionrelative:phobreakfast\\upsertbreakfast.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5A3E76-05BC-4668-A87D-9807AABAD1D8}|PhoBreakfast\\PhoBreakfast.csproj|c:\\dev\\phobreakfast\\phobreakfast\\controllers\\breakfastscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5A3E76-05BC-4668-A87D-9807AABAD1D8}|PhoBreakfast\\PhoBreakfast.csproj|solutionrelative:phobreakfast\\controllers\\breakfastscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5A3E76-05BC-4668-A87D-9807AABAD1D8}|PhoBreakfast\\PhoBreakfast.csproj|c:\\dev\\phobreakfast\\phobreakfast\\models\\breakfast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5A3E76-05BC-4668-A87D-9807AABAD1D8}|PhoBreakfast\\PhoBreakfast.csproj|solutionrelative:phobreakfast\\models\\breakfast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5A3E76-05BC-4668-A87D-9807AABAD1D8}|PhoBreakfast\\PhoBreakfast.csproj|c:\\dev\\phobreakfast\\phobreakfast\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5A3E76-05BC-4668-A87D-9807AABAD1D8}|PhoBreakfast\\PhoBreakfast.csproj|solutionrelative:phobreakfast\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5A3E76-05BC-4668-A87D-9807AABAD1D8}|PhoBreakfast\\PhoBreakfast.csproj|c:\\dev\\phobreakfast\\phobreakfast\\controllers\\errorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5A3E76-05BC-4668-A87D-9807AABAD1D8}|PhoBreakfast\\PhoBreakfast.csproj|solutionrelative:phobreakfast\\controllers\\errorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5A3E76-05BC-4668-A87D-9807AABAD1D8}|PhoBreakfast\\PhoBreakfast.csproj|c:\\dev\\phobreakfast\\phobreakfast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5A3E76-05BC-4668-A87D-9807AABAD1D8}|PhoBreakfast\\PhoBreakfast.csproj|solutionrelative:phobreakfast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7268C61-62D2-46AD-AEDC-14704E62CB51}|PhoBreakfast.Contracts\\PhoBreakfast.Contracts.csproj|c:\\dev\\phobreakfast\\phobreakfast.contracts\\createbreakfastrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7268C61-62D2-46AD-AEDC-14704E62CB51}|PhoBreakfast.Contracts\\PhoBreakfast.Contracts.csproj|solutionrelative:phobreakfast.contracts\\createbreakfastrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7268C61-62D2-46AD-AEDC-14704E62CB51}|PhoBreakfast.Contracts\\PhoBreakfast.Contracts.csproj|c:\\dev\\phobreakfast\\phobreakfast.contracts\\breakfastresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7268C61-62D2-46AD-AEDC-14704E62CB51}|PhoBreakfast.Contracts\\PhoBreakfast.Contracts.csproj|solutionrelative:phobreakfast.contracts\\breakfastresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5A3E76-05BC-4668-A87D-9807AABAD1D8}|PhoBreakfast\\PhoBreakfast.csproj|c:\\dev\\phobreakfast\\phobreakfast\\services\\upsertedbreakfastresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5A3E76-05BC-4668-A87D-9807AABAD1D8}|PhoBreakfast\\PhoBreakfast.csproj|solutionrelative:phobreakfast\\services\\upsertedbreakfastresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5A3E76-05BC-4668-A87D-9807AABAD1D8}|PhoBreakfast\\PhoBreakfast.csproj|c:\\dev\\phobreakfast\\phobreakfast\\services\\ibreakfastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5A3E76-05BC-4668-A87D-9807AABAD1D8}|PhoBreakfast\\PhoBreakfast.csproj|solutionrelative:phobreakfast\\services\\ibreakfastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5A3E76-05BC-4668-A87D-9807AABAD1D8}|PhoBreakfast\\PhoBreakfast.csproj|c:\\dev\\phobreakfast\\phobreakfast\\services\\breakfastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5A3E76-05BC-4668-A87D-9807AABAD1D8}|PhoBreakfast\\PhoBreakfast.csproj|solutionrelative:phobreakfast\\services\\breakfastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetBreakfast.http",
+              "DocumentMoniker": "C:\\dev\\PhoBreakfast\\PhoBreakfast\\GetBreakfast.http",
+              "RelativeDocumentMoniker": "PhoBreakfast\\GetBreakfast.http",
+              "ToolTip": "C:\\dev\\PhoBreakfast\\PhoBreakfast\\GetBreakfast.http",
+              "RelativeToolTip": "PhoBreakfast\\GetBreakfast.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-15T20:17:11.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateBreakfast.http",
+              "DocumentMoniker": "C:\\dev\\PhoBreakfast\\PhoBreakfast\\CreateBreakfast.http",
+              "RelativeDocumentMoniker": "PhoBreakfast\\CreateBreakfast.http",
+              "ToolTip": "C:\\dev\\PhoBreakfast\\PhoBreakfast\\CreateBreakfast.http",
+              "RelativeToolTip": "PhoBreakfast\\CreateBreakfast.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-15T20:16:45.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpsertBreakfast.http",
+              "DocumentMoniker": "C:\\dev\\PhoBreakfast\\PhoBreakfast\\UpsertBreakfast.http",
+              "RelativeDocumentMoniker": "PhoBreakfast\\UpsertBreakfast.http",
+              "ToolTip": "C:\\dev\\PhoBreakfast\\PhoBreakfast\\UpsertBreakfast.http",
+              "RelativeToolTip": "PhoBreakfast\\UpsertBreakfast.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-15T20:16:34.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorsController.cs",
+              "DocumentMoniker": "C:\\dev\\PhoBreakfast\\PhoBreakfast\\Controllers\\ErrorsController.cs",
+              "RelativeDocumentMoniker": "PhoBreakfast\\Controllers\\ErrorsController.cs",
+              "ToolTip": "C:\\dev\\PhoBreakfast\\PhoBreakfast\\Controllers\\ErrorsController.cs",
+              "RelativeToolTip": "PhoBreakfast\\Controllers\\ErrorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:12:47.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhoBreakfast.http",
+              "DocumentMoniker": "C:\\dev\\PhoBreakfast\\PhoBreakfast\\PhoBreakfast.http",
+              "RelativeDocumentMoniker": "PhoBreakfast\\PhoBreakfast.http",
+              "ToolTip": "C:\\dev\\PhoBreakfast\\PhoBreakfast\\PhoBreakfast.http",
+              "RelativeToolTip": "PhoBreakfast\\PhoBreakfast.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-15T20:11:39.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpsertBreakfastRequest.cs",
+              "DocumentMoniker": "C:\\dev\\PhoBreakfast\\PhoBreakfast.Contracts\\UpsertBreakfastRequest.cs",
+              "RelativeDocumentMoniker": "PhoBreakfast.Contracts\\UpsertBreakfastRequest.cs",
+              "ToolTip": "C:\\dev\\PhoBreakfast\\PhoBreakfast.Contracts\\UpsertBreakfastRequest.cs",
+              "RelativeToolTip": "PhoBreakfast.Contracts\\UpsertBreakfastRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T18:15:01.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateBreakfastRequest.cs",
+              "DocumentMoniker": "C:\\dev\\PhoBreakfast\\PhoBreakfast.Contracts\\CreateBreakfastRequest.cs",
+              "RelativeDocumentMoniker": "PhoBreakfast.Contracts\\CreateBreakfastRequest.cs",
+              "ToolTip": "C:\\dev\\PhoBreakfast\\PhoBreakfast.Contracts\\CreateBreakfastRequest.cs",
+              "RelativeToolTip": "PhoBreakfast.Contracts\\CreateBreakfastRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T18:15:00.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BreakfastResponse.cs",
+              "DocumentMoniker": "C:\\dev\\PhoBreakfast\\PhoBreakfast.Contracts\\BreakfastResponse.cs",
+              "RelativeDocumentMoniker": "PhoBreakfast.Contracts\\BreakfastResponse.cs",
+              "ToolTip": "C:\\dev\\PhoBreakfast\\PhoBreakfast.Contracts\\BreakfastResponse.cs",
+              "RelativeToolTip": "PhoBreakfast.Contracts\\BreakfastResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T18:14:59.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BreakfastService.cs",
+              "DocumentMoniker": "C:\\dev\\PhoBreakfast\\PhoBreakfast\\Services\\BreakfastService.cs",
+              "RelativeDocumentMoniker": "PhoBreakfast\\Services\\BreakfastService.cs",
+              "ToolTip": "C:\\dev\\PhoBreakfast\\PhoBreakfast\\Services\\BreakfastService.cs",
+              "RelativeToolTip": "PhoBreakfast\\Services\\BreakfastService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:51:02.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\dev\\PhoBreakfast\\PhoBreakfast\\Controllers\\ApiController.cs",
+              "RelativeDocumentMoniker": "PhoBreakfast\\Controllers\\ApiController.cs",
+              "ToolTip": "C:\\dev\\PhoBreakfast\\PhoBreakfast\\Controllers\\ApiController.cs",
+              "RelativeToolTip": "PhoBreakfast\\Controllers\\ApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:05:20.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BreakfastsController.cs",
+              "DocumentMoniker": "C:\\dev\\PhoBreakfast\\PhoBreakfast\\Controllers\\BreakfastsController.cs",
+              "RelativeDocumentMoniker": "PhoBreakfast\\Controllers\\BreakfastsController.cs",
+              "ToolTip": "C:\\dev\\PhoBreakfast\\PhoBreakfast\\Controllers\\BreakfastsController.cs",
+              "RelativeToolTip": "PhoBreakfast\\Controllers\\BreakfastsController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwCcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:53:18.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Breakfast.cs",
+              "DocumentMoniker": "C:\\dev\\PhoBreakfast\\PhoBreakfast\\Models\\Breakfast.cs",
+              "RelativeDocumentMoniker": "PhoBreakfast\\Models\\Breakfast.cs",
+              "ToolTip": "C:\\dev\\PhoBreakfast\\PhoBreakfast\\Models\\Breakfast.cs",
+              "RelativeToolTip": "PhoBreakfast\\Models\\Breakfast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:51:18.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBreakfastService.cs",
+              "DocumentMoniker": "C:\\dev\\PhoBreakfast\\PhoBreakfast\\Services\\IBreakfastService.cs",
+              "RelativeDocumentMoniker": "PhoBreakfast\\Services\\IBreakfastService.cs",
+              "ToolTip": "C:\\dev\\PhoBreakfast\\PhoBreakfast\\Services\\IBreakfastService.cs",
+              "RelativeToolTip": "PhoBreakfast\\Services\\IBreakfastService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:51:01.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpsertedBreakfastResult.cs",
+              "DocumentMoniker": "C:\\dev\\PhoBreakfast\\PhoBreakfast\\Services\\UpsertedBreakfastResult.cs",
+              "RelativeDocumentMoniker": "PhoBreakfast\\Services\\UpsertedBreakfastResult.cs",
+              "ToolTip": "C:\\dev\\PhoBreakfast\\PhoBreakfast\\Services\\UpsertedBreakfastResult.cs",
+              "RelativeToolTip": "PhoBreakfast\\Services\\UpsertedBreakfastResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:50:58.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\PhoBreakfast\\PhoBreakfast\\Program.cs",
+              "RelativeDocumentMoniker": "PhoBreakfast\\Program.cs",
+              "ToolTip": "C:\\dev\\PhoBreakfast\\PhoBreakfast\\Program.cs",
+              "RelativeToolTip": "PhoBreakfast\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:50:47.042Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
